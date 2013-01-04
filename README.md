@@ -9,8 +9,6 @@ This program requires
 
 * [BLAT](http://genome.ucsc.edu/FAQ/FAQblat.html)
 
-* The latest stable release of [Cython](http://cython.org/) 
-
 * Utilities from [https://github.com/tianyang-li/misc-bioinfo-0](https://github.com/tianyang-li/misc-bioinfo-0) 
 
 ***
